@@ -1,2 +1,2 @@
 # ShortsMaker
-Making youtube shorts.
+Making youtube shorts and having fun.
